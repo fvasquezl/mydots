@@ -1,0 +1,19 @@
+# https://ghostty.org/docs/config/reference
+
+font-family = JetBrainsMono Nerd Font Mono
+font-style = Medium
+font-size = 14
+
+theme = TokyoNight Night
+
+background-opacity = 0.85
+background-blur = true
+
+font-thicken = true
+font-thicken-strength = 175
+minimum-contrast = 1.3
+
+# arranca directo en tu sesión persistente de Herdr
+command = /home/fvasquez/.local/bin/herdr
+
+confirm-close-surface = false
